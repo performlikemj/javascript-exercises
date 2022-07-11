@@ -1,4 +1,7 @@
 # Exercise 09 - Palindromes
+Note to self: Remember that for multiple OR conditions, if one is True, the condition will run.
+
+What I wanted in this problem was to use && to test whether any of the non desireable characters were present.
 
 Write a function that determines whether or not a given string is a palindrome.
 
